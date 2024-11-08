@@ -6,4 +6,4 @@
   - onnxruntime：https://onnxruntime.ai/docs/
   - yolo：https://docs.ultralytics.com/   &      https://github.com/ultralytics/ultralytics
   - sam2_c++部署：https://www.bilibili.com/video/BV1iV4sesEak/?spm_id_from=333.788.recommend_more_video.-1&vd_source=4ab744501681294797dff9916ad3dd10
-  - onnxruntime源码编译+cmake3.27以上：https://github.com/microsoft/onnxruntime          &            https://blog.csdn.net/yangyu0515/article/details/138225081
+  - onnxruntime源码编译+cmake3.27以上：https://github.com/microsoft/onnxruntime          &            https://blog.csdn.net/yangyu0515/article/details/138225081 (直接使用github上面编译好的压缩包也可）
