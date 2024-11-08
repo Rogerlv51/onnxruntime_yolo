@@ -1,0 +1,12 @@
+﻿  yolov10.cpp
+C:\Users\Roger\Desktop\onnxruntime_yolo\src\yolov10.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\Roger\Desktop\onnxruntime_yolo\include\yolov10.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\Roger\Desktop\onnxruntime_yolo\include\model.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\Roger\Desktop\onnxruntime_yolo\include\model.h(25,35): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\Roger\Desktop\onnxruntime_yolo\src\yolov10.cpp(49,32): warning C4101: “e”: 未引用的局部变量
+  正在生成代码
+  0 of 382 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  onnx_yolo.vcxproj -> C:\Users\Roger\Desktop\onnxruntime_yolo\x64\Release\onnx_yolo.exe
